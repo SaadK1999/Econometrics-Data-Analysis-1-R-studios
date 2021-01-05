@@ -1,5 +1,5 @@
 # R-Studios-Project-1
-Econometrics First project
+Econometrics First project (Grade: 68%)
 
 Hi, this is my first Econometrics data analysis project :) 
 
